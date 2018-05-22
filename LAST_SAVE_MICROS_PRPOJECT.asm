@@ -2,7 +2,7 @@
 ; Project.asm
 ;
 ; Created: 9/10/2017 3:13:47 PM
-; Author : Micros
+; Author : Preshen Goobiah & Marc Karp
 ;
 .include "m328pdef.inc" // change for other devices
 
